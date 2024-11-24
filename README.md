@@ -1,6 +1,3 @@
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmin132)](https://github.com/사용자명/github-readme-stats)
-
-
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
